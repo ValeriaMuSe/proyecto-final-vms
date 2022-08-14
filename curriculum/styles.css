@@ -1,0 +1,111 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #e5eae6;
+  color: #353a34;
+}
+  
+a {
+  text-decoration: none;
+}
+  
+a:hover {
+  text-decoration: underline;
+}
+  
+.logo {
+  font-weight: 600;
+  font-size: 20px;
+}
+  
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+  
+.nav {
+  margin-top: 23px;
+  margin-left: 145px;
+  font-size: 15px;
+}
+  
+.nav-anchors {
+  color: #353a34;
+  padding-left: 6px;
+}
+  
+.nav-anchors:hover {
+  color: #4990b7;
+}
+
+.sect-curriculum {
+  display: flex;
+  font-size: 15px;
+}
+
+.curriculum-box {
+  width: 647px;
+}
+
+
+.h1-curriculum {
+  font-size: 40px;
+  margin-left: 188px;
+}
+
+.p-sect1 {
+  margin-left: 188px;
+  margin-top: -30px;
+}
+
+.education-sect {
+  margin-left: 188px;
+}
+
+.h2-curriculum {
+  margin-bottom: 0px;
+}
+
+.curriculum-ul {
+  margin-left: -24px;
+}
+
+.abilities-sect {
+  margin-top: 35px;
+  margin-left: 49px;
+}
+
+.img-curriculum {
+  width: 189px;
+  height: 265px;
+  margin-top: 106px;
+  margin-left: -192px;
+  border-radius: 10px;
+}
+
+.footer {
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+.h2-footer {
+  font-size: 28px;
+}
+
+.justify-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.email-box {
+  border: none;
+  padding: 15px 120px;
+  width: 145px;
+  border-radius: 12px;
+}
+
+.footer-arrow {
+  background-color: transparent;
+  border: none;
+  margin-left: -50px;
+  margin-top: 2px;
+}
